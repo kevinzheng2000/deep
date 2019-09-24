@@ -15,4 +15,6 @@ playing board games and ping pong. This summer I lived and worked in Norway!
 ## Participants
 
 **Jamie Chen**: Sophomore at Hanszen from Taiwan studying Computational
-and Applied Math and Cognitive Science. 
+and Applied Math and Cognitive Science.
+
+**Kevin Zheng**: Sophomore at Baker studying Physics and Mathematics. 
